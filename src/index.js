@@ -2,12 +2,9 @@ import React from "react";
 import ReactDom from "react-dom/client";
 import App from "./App";
 import 'bootstrap/dist/css/bootstrap.css'
+import 'font-awesome/css/font-awesome.css'
 import 'mdbootstrap/css/mdb.css'
 import './index.css'
-import 'bootstrap/dist/css/bootstrap.min.css'; 
-import '@fortawesome/fontawesome-free/css/all.min.css';
-import { BrowserRouter } from 'react-router-dom';
-
 
 
 
