@@ -2,3 +2,12 @@ img{
     width: 300px !important;
     height: 200px !important;
 }
+
+.wrapper{
+    background-color: lightcyan;
+    height: 100vh;
+    
+}
+.landing-page{
+    height: inherit;
+}
